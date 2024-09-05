@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student_Grade_Tracker
 Student_Grade_Tracker
 
@@ -44,3 +45,6 @@ Determine if the student has passed or failed based on the average marks or indi
 **Output Results:**
 
 Display the results.
+=======
+# task_2-codetech_it_solution
+>>>>>>> 61a586845ff075b16e3318805c5c74b6b112ad52
